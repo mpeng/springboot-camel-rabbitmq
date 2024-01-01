@@ -1,0 +1,3 @@
+1. Make sure RabbitMQ location is updated in resources\application.properties
+2. C:\Work\springboot-camel-rabbitmq>mvn clean install
+3. C:\Work\springboot-camel-rabbitmq>mvn spring-boot:run
